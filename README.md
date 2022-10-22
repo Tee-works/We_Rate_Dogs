@@ -4,9 +4,12 @@ The objective of the study was to gather, clean and analyse over 5000+ tweets fr
 
 The entire data wrangling process contains three major steps, namely:
 
-# Data gathering
-# Data assessing
-# Data cleaning Although, we did go beyond by both analysing the data and visualizing it with a plot. This was necessary as the data wrangling process isn't a stand alone process and for complete analysis, it must be combined with other processess to arrive at conclusions. I would be explaining in brief details the step-by-step prodecure that was undergone in this wrangling process.
+Data gathering
+
+Data assessing
+
+Data cleaning Although, we did go beyond by both analysing the data and visualizing it with a plot. This was necessary as the data wrangling process isn't a stand alone process and for complete analysis, it must be combined with other processess to arrive at conclusions. I would be explaining in brief details the step-by-step prodecure that was undergone in this wrangling process.
+
 ### Gathering Data for this Project
 This project involved gathering of data from three different sources as listed below. For each of the data source a different method of data gathering was used namely:-
 
